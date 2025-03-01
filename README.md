@@ -5,9 +5,7 @@ Services Covered: In this certification cousre, we will cover many services such
 ---
 
 ---
-Compute Services: Ravi, Nitin,
+Compute Services: Ravi, Nitin
 Storage Services: Ravi, Nitin
 Database Services: Ravi, Nitin
-Networking Services: Ravi, Nitin
-Security Services: Ravi, Nitin
 ---
