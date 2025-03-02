@@ -62,20 +62,29 @@ These are the compute services available in the GCP cloud:
 
 ## 4. Cloud Functions (FaaS - Event-driven serverless
 
-Key Features:
+### Key Features of Cloud Functions (FaaS)
 ✅ Fully serverless (only pay for execution time).
+
 ✅ Triggers from GCP services (Cloud Storage, Pub/Sub, Firestore, etc.).
+
 ✅ Autoscaling from 0 to N requests.
+
 ✅ Built-in security & monitoring.
+
 ✅ Supports multiple runtimes (Node.js, Python, Go, Java, .NET, Ruby, PHP).
 
 ## 4. Cloud Run
 
-Key Features:
+### Key Features of Cloud Functions (FaaS)
+
 ✅ Deploy any containerized app (supports Docker & OCI-compliant containers).
+
 ✅ Scales to zero when idle (cost savings).
+
 ✅ Fully managed or Anthos-managed (for hybrid/multi-cloud).
+
 ✅ Supports HTTP-based workloads & WebSockets.
+
 ✅ Integrated with GCP IAM & Cloud Logging.
 
 ## 5. Cloud Run Functions
