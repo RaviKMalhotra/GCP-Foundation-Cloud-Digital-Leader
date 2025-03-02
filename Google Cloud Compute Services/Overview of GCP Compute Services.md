@@ -1,11 +1,11 @@
 | Personal            | Details                                     | 
 |---------------------|---------------------------------------------|
-| 👤✍️ Author ![image](https://github.com/user-attachments/assets/11c72803-3594-40b4-be92-24800eb25465)       | Ravi K Malhotra -                         |
-| 🌐 Website          | www.ravikmalhotra.com                       | 
+| 👤✍️ Author        | Ravi K Malhotra -   ![image](https://github.com/user-attachments/assets/da5df687-7c71-492f-ac84-3f148cb0440e)                       || 🌐 Website          | www.ravikmalhotra.com                       | 
 | 🚀 Linkedin Profile | https://www.linkedin.com/in/ravikmalhotra/  | 
 | 🐱 Github profile   | https://github.com/RaviKMalhotra            | 
 | 📜Topic             | Overview of GCP Compute Services (🖥️)      |
 |-------------------------------------------------------------------|
+
 
 # Overview of Google Cloud Compute Services
 💡 🚀 ♾️ 🛡️  ⬣  🟣   🔵  🟢  🟡  🔴   🔴   🔺  
