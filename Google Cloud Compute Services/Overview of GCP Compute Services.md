@@ -16,14 +16,14 @@ These are the compute services available in the GCP cloud:
     - GCP Bare Metal
    -   
 ## 1. App Engine
-
-"Google App Engine is one of the earliest cloud computing services from Google, launched in 2008 as a pioneering Platform as a Service (PaaS). It allows developers to build, deploy, and scale applications without worrying about managing infrastructure. With automatic scaling, built-in load balancing, and support for multiple programming languages, App Engine enables businesses to focus solely on writing code while Google takes care of hosting and operations. Whether you are building a simple web app or a complex enterprise application, App Engine provides a seamless, fully managed environment to deploy applications effortlessly."
-
-Introduction:
-
-Launch Year: 2008 (First cloud service by Google!)
-What it is: A Platform as a Service (PaaS) that allows developers to deploy applications without managing infrastructure.
-Primary Use Cases: Web apps, APIs, and backend services.
+Let's learn some of the basic characteristics of a Google App Engine:
+-
+- Google App Engine is one of the earliest cloud computing services from Google.
+- launched in 2008 as a pioneering Platform as a Service (PaaS).
+- It allows developers to build, deploy, and scale applications without worrying about managing the entire infrastructure.
+- With automatic scaling, built-in load balancing, and support for multiple programming languages, App Engine enables businesses to focus solely on writing code while Google takes care of hosting and operations.
+- Whether you are building a simple web app or a complex enterprise application, App Engine provides a seamless, fully managed environment to deploy applications effortlessly."
+- Primary Use Cases: Web apps, APIs, and backend services.
 
 ### These are the Key Features of an App Engine:
 ✅ Fully managed runtime environments (Python, Java, Go, Node.js, PHP, Ruby, etc.).
