@@ -22,10 +22,11 @@ These are the compute services available in the GCP cloud:
 - Compute Engine is an Infrastructure as a Service (IaaS) offering that provides scalable virtual machines (VMs) on Google's infrastructure.
 - Compute Engine was launched in year 2012
 - It supports both Windows and Linux operating systems.
+- you can create compute engine using the GCP console, and CLI. 
 - It offers various machine types to suit different workloads.
 - As this being an IaaS offerings, users or consumers have full control over VM configurations, including CPU, memory and storage options.
 #### Primary use cases of Compute Engine: Web hosting, databases, big data processing, and enterprise applications.
-- You can create a Compute Engine 
+ 
 ### These are the Key Features of Compute Engine:
 ✅ Fully customizable VMs (CPU, RAM, disk, and GPU).
 
@@ -42,6 +43,8 @@ These are the compute services available in the GCP cloud:
 - GKE is a managed Kubernetes service that simplifies deploying, managing, and scaling containerized applications using Google's infrastructure. 
 - It offers automated operations, integrated security, and enterprise-grade support.
 - Kubernetes Engine was launched and introduced by Google in year 2015. 
+
+#### Primary use cases of Compute Engine: Web hosting, databases, big data processing, and enterprise applications.
 
 ## 4. Cloud Run
 ## 5. Cloud Run Functions
