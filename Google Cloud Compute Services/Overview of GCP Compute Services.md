@@ -14,14 +14,15 @@ These are the compute services available in the GCP cloud:
 - Compute instances are also referred as workloads, as you can host any website or any custom application on top of a compute instances.
 - Compute instance, simply means a virtual machine in Microsoft Azure Cloud and EC2 instance in AWS cloud.
 - GCP offers a wide range of compute services. Here is a list
-    - GCP Compute Engine
     - GCP App Engine
-    - GCP Kubernetes Engine
-    - GCP Cloud Run
-    - GCP Cloud Run Functions
-    - GCP Bare Metal
-   -   
-## 1. App Engine
+    - GCP Compute Engine
+    - Google Kubernetes Engine (GKE) (Managed Kubernetes)
+    - Cloud Functions (FaaS - Even Drien Serverless)
+    - Cloud Run (Serverless Containers)
+    - Bare Metal Solution (Dedicated Hardware for Specialized Workloads)
+    - Anthos (Hybrid and Multi-Cloud Management)
+    - 
+## 1. GCP App Engine
 Let's learn some of the basic characteristics of a Google App Engine:
 -
 - Google App Engine is one of the earliest cloud computing services from Google.
@@ -38,7 +39,7 @@ Let's learn some of the basic characteristics of a Google App Engine:
 ✅ Traffic Splitting (A/B testing for different versions).
 ✅ Built-in security & compliance.
 
-## 2. Compute Engine
+## 2. GCP Compute Engine
 "When it comes to raw compute power and flexibility, Google Compute Engine stands as the backbone of Google Cloud’s infrastructure services. Launched in 2012, it provides highly customizable virtual machines (VMs) that can run various workloads, from web applications to high-performance computing. Compute Engine offers full control over VM configurations, allowing businesses to choose the right balance of CPU, memory, and disk storage to match their needs. With built-in security, live migration, and automatic scaling, it ensures that workloads remain performant, reliable, and cost-efficient."
 
 
