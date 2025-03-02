@@ -14,7 +14,7 @@ These are the compute services available in the GCP cloud:
     - GCP Cloud Run
     - GCP Cloud Run Functions
     - GCP Bare Metal
-     
+   -   
 ## 1. App Engine
 
 ## 2. Compute Engine
@@ -25,6 +25,7 @@ These are the compute services available in the GCP cloud:
 - It offers various machine types to suit different workloads.
 - As this being an IaaS offerings, users or consumers have full control over VM configurations, including CPU, memory and storage options.
 - Primary use cases of Compute Engine: Web hosting, databases, big data processing, and enterprise applications.
+- You can create a Compute Engine 
 ### These are the Key Features of Compute Engine:
 ✅ Fully customizable VMs (CPU, RAM, disk, and GPU).
 
