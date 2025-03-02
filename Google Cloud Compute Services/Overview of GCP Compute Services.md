@@ -70,6 +70,14 @@ Key Features:
 ✅ Supports multiple runtimes (Node.js, Python, Go, Java, .NET, Ruby, PHP).
 
 ## 4. Cloud Run
+
+Key Features:
+✅ Deploy any containerized app (supports Docker & OCI-compliant containers).
+✅ Scales to zero when idle (cost savings).
+✅ Fully managed or Anthos-managed (for hybrid/multi-cloud).
+✅ Supports HTTP-based workloads & WebSockets.
+✅ Integrated with GCP IAM & Cloud Logging.
+
 ## 5. Cloud Run Functions
 ## 6. Bare Metal Solution
 
