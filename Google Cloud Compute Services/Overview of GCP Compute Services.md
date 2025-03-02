@@ -60,6 +60,15 @@ These are the compute services available in the GCP cloud:
 ✅ Built-in security features (IAM, encryption, and vulnerability scanning).
 ✅ Hybrid and Multi-cloud Support (via Anthos).
 
+## 4. Cloud Functions (FaaS - Event-driven serverless
+
+Key Features:
+✅ Fully serverless (only pay for execution time).
+✅ Triggers from GCP services (Cloud Storage, Pub/Sub, Firestore, etc.).
+✅ Autoscaling from 0 to N requests.
+✅ Built-in security & monitoring.
+✅ Supports multiple runtimes (Node.js, Python, Go, Java, .NET, Ruby, PHP).
+
 ## 4. Cloud Run
 ## 5. Cloud Run Functions
 ## 6. Bare Metal Solution
