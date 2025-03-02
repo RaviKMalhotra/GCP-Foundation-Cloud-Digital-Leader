@@ -1,6 +1,7 @@
 # Overview of GCP Database Services by Ravi K Malhotra !MyPic
 
-![image](https://github.com/user-attachments/assets/bfde1f65-cf47-42e0-859b-2d0ac04eb82f)
+![image](https://github.com/user-attachments/assets/0c660319-f000-4d82-9ae3-8fbe0398869d)
+
 
 
 
