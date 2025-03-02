@@ -2,6 +2,11 @@
 - Author: Ravi K Malhotra
 - ravikmalhotra.com
 
+---
+Topic: Overview of GCP Computing Services 🖥️
+---
+
+
 💡 🚀 ♾️ 🛡️  ⬣  🟣   🔵  🟢  🟡  🔴   🔴   🔺   
 
                                            
