@@ -12,6 +12,9 @@ These are all Relational Databases offered in the GCP
 This is 
 ### - AlloyDB for PostgreSQL:
 This is
+### Step-03: Pre-requisite: Create a test gmail id for this demo
+- gcpuser08@gmail.com
+
 
 ## 2. NoSQL Databases (Non-Relational)
 ## 3. In-Memory Databases
