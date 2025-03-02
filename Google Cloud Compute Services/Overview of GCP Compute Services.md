@@ -1,6 +1,6 @@
 | Personal            | Details                                     | 
 |---------------------|---------------------------------------------|
-| 👤✍️ Author        | Ravi K Malhotra - ![image](https://github.com/user-attachments/assets/11c72803-3594-40b4-be92-24800eb25465)                        |
+| 👤✍️ Author ![image](https://github.com/user-attachments/assets/11c72803-3594-40b4-be92-24800eb25465)       | Ravi K Malhotra -                         |
 | 🌐 Website          | www.ravikmalhotra.com                       | 
 | 🚀 Linkedin Profile | https://www.linkedin.com/in/ravikmalhotra/  | 
 | 🐱 Github profile   | https://github.com/RaviKMalhotra            | 
