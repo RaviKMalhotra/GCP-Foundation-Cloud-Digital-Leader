@@ -1,5 +1,5 @@
-# Overview of GCP Database Services by Ravi K Malhotra !MyPic
-
+# Overview of GCP Database Services by Ravi K Malhotra 
+!Author: Ravi K Malhotra
 ![image](https://github.com/user-attachments/assets/2d0a3bbb-dd90-4710-b2de-a5e09a168c17)
   
 Google offers several database services through its Google Cloud Platform (GCP) catering to different use cases like transactional databases, analytical workloads, and in-memory caching. Here's an overview of all such offerings:
