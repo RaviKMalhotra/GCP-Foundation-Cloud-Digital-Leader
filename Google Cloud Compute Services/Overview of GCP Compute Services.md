@@ -2,8 +2,19 @@
 - Author: Ravi K Malhotra
 - ravikmalhotra.com                                           
 
-# Google Cloud Compute Services
+# Overview of Google Cloud Compute Services
 These are the compute services available in the GCP cloud:
+- Compute services are the most critical and highly used components in any cloud platform.
+- Compute instances are also referred as workloads, as you can host any website or any custom application on top of a compute instances.
+- Compute instance, simply means a virtual machine in Microsoft Azure Cloud and EC2 instance in AWS cloud.
+- GCP offers a wide range of compute services. Here is a list
+  1. GCP Compute Engine
+  2. GCP App Engine
+  3. GCP Kubernetes Engine
+  4. GCP Cloud Run
+  5. GCP Cloud Run Functions
+  6. GCP Bare Metal
+     
 ## 1. App Engine
 
 ## 2. Compute Engine
