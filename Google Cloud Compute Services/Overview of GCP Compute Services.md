@@ -31,7 +31,7 @@ These are the compute services available in the GCP cloud:
 ✅ Live Migration (keeps VMs running during maintenance).
 ✅ Autoscaling & Load Balancing (optimizes performance).
 ✅ Confidential Computing (encrypts data in use).
--
+
 
 ## 3. Kubernetes Engine
 - GKE is a managed Kubernetes service that simplifies deploying, managing, and scaling #containerized applications using Google's infrastructure. 
