@@ -88,6 +88,7 @@ These are the compute services available in the GCP cloud:
 ✅ Integrated with GCP IAM & Cloud Logging.
 
 ## 5. Cloud Run Functions
+
 ## 6. Bare Metal Solution
 
 ### Key Features of Bare Metal Solutions
@@ -100,4 +101,12 @@ These are the compute services available in the GCP cloud:
 
 ✅ Enterprise-grade security & compliance.
 
+
+## 6. Anthos
+
+Key Features:
+✅ Run workloads anywhere (on-prem, AWS, Azure).
+✅ Uses GKE for Kubernetes management.
+✅ Anthos Config Management (enforces policies across environments).
+✅ Service Mesh for microservices security & observability.
 
