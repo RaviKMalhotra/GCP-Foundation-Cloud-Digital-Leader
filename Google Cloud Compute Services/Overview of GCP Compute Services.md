@@ -7,6 +7,7 @@ These are the compute services available in the GCP cloud:
 ## 1. App Engine
 
 ## 2. Compute Engine
+---
 - Compute Engine is an Infrastructure as a Service (IaaS) offering that provides scalable virtual machines (VMs) on Google's infrastructure.
 - It supports both Windows and Linux operating systems.
 - It offers various machine types to suit different workloads.
