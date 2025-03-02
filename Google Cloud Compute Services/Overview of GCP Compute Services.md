@@ -22,8 +22,9 @@
     - Cloud Run (Serverless Containers)
     - Bare Metal Solution (Dedicated Hardware for Specialized Workloads)
     - Anthos (Hybrid and Multi-Cloud Management)
-    - 
+      
 ## 1. GCP App Engine
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 - Google App Engine is one of the earliest cloud computing services from Google.
 - launched in 2008 as a pioneering **Platform as a Service (PaaS)**.
 - It allows developers to build, deploy, and scale applications without worrying about managing the entire infrastructure.
