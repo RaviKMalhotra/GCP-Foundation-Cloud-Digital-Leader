@@ -7,9 +7,8 @@
 | 📜Topic             | Overview of GCP Compute Services (🖥️)      |
 |-------------------------------------------------------------------|
 
-💡 🚀 ♾️ 🛡️  ⬣  🟣   🔵  🟢  🟡  🔴   🔴   🔺   
-
 # Overview of Google Cloud Compute Services
+💡 🚀 ♾️ 🛡️  ⬣  🟣   🔵  🟢  🟡  🔴   🔴   🔺  
 These are the compute services available in the GCP cloud:
 - Compute services are the most critical and highly used components in any cloud platform.
 - Compute instances are also referred as workloads, as you can host any website or any custom application on top of a compute instances.
