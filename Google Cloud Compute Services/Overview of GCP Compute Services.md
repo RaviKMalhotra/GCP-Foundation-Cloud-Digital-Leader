@@ -27,9 +27,13 @@ These are the compute services available in the GCP cloud:
 - Primary use cases of Compute Engine: Web hosting, databases, big data processing, and enterprise applications.
 ### These are the Key Features of Compute Engine:
 ✅ Fully customizable VMs (CPU, RAM, disk, and GPU).
+
 ✅ Preemptible and Spot VMs (cost-saving for non-critical workloads).
+
 ✅ Live Migration (keeps VMs running during maintenance).
+
 ✅ Autoscaling & Load Balancing (optimizes performance).
+
 ✅ Confidential Computing (encrypts data in use).
 
 
