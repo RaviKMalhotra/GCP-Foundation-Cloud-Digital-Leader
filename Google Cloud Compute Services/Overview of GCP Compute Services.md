@@ -1,20 +1,16 @@
 ![image](https://github.com/user-attachments/assets/11c72803-3594-40b4-be92-24800eb25465)
 
 
-Topic: Overview of GCP Computing Services 🖥️
-Author: Ravi K Malhotra | 🌐 www.ravikmalhotra.com | Linkedin Profile - 
+Topic: Overview of GCP Computing Services 
 
----
-Topic: Understanding Containers & Dockers
-Certification Track: AZ-104, AZ-204, AZ-400, and AZ-305
----
-
-| Service          | Details                                        | 
-|------------------|------------------------------------------------|
-| Author           | Ravi K Malhotra                                |
-| Website          | 🌐 www.ravikmalhotra.com                       | 
-| Linkedin Profile | 🚀 https://www.linkedin.com/in/ravikmalhotra/  | 
-| Github profile   | https://github.com/RaviKMalhotra                |  
+| Personal            | Details                                     | 
+|---------------------|---------------------------------------------|
+| 👤✍️ Author        | Ravi K Malhotra                             |
+| 🌐 Website          | www.ravikmalhotra.com                       | 
+| 🚀 Linkedin Profile | https://www.linkedin.com/in/ravikmalhotra/  | 
+| 🐱 Github profile   | https://github.com/RaviKMalhotra            | 
+| 📜Topic             | Overview of GCP Compute Services (🖥️)      |
+|-------------------------------------------------------------------|
 
 
 
