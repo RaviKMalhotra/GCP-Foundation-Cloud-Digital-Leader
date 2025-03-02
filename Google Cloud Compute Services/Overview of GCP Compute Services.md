@@ -11,7 +11,8 @@
 💡 🚀 ♾️ 🛡️  ⬣  🟣   🔵  🟢  🟡  🔴   🔴   🔺  
 - Compute services are the most critical and highly used components in any cloud platform.
 - Compute instances are also referred as workloads, as you can host any website or any custom application on top of a compute instances.
-- Compute services ia an IaaS form of cloud computing. 
+- Compute services in GCP are offered as both IaaS and PaaS types.
+- GCP compute engine is a form of IaaS cloud computing, whereas App engine is a form of PaaS cloud computing.
 - Compute instance, simply means a virtual machine in Microsoft Azure Cloud and EC2 instance in AWS cloud.
 - GCP offers a wide range of compute services. Here is a list
     - GCP App Engine
