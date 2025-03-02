@@ -44,7 +44,14 @@ These are the compute services available in the GCP cloud:
 - It offers automated operations, integrated security, and enterprise-grade support.
 - Kubernetes Engine was launched and introduced by Google in year 2015. 
 
-#### Primary use cases of Compute Engine: Web hosting, databases, big data processing, and enterprise applications.
+#### Primary use cases of Google Kubernetes Engine: Microservices, hybrid/multi-cloud applictions, and container orchestration.
+
+### Key Features of Google Kubernetes Engine:
+✅ Auto-scaling (automatically adjusts compute resources).
+✅ GKE Autopilot (fully managed mode where Google handles cluster operations).
+✅ Multi-cluster & Multi-region support.
+✅ Built-in security features (IAM, encryption, and vulnerability scanning).
+✅ Hybrid and Multi-cloud Support (via Anthos).
 
 ## 4. Cloud Run
 ## 5. Cloud Run Functions
