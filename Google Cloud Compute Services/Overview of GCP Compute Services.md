@@ -90,4 +90,14 @@ These are the compute services available in the GCP cloud:
 ## 5. Cloud Run Functions
 ## 6. Bare Metal Solution
 
+### Key Features of Bare Metal Solutions
+
+✅ No virtualization overhead (bare metal performance).
+
+✅ Low-latency connectivity to Google Cloud services.
+
+✅ Supports custom licensing requirements.
+
+✅ Enterprise-grade security & compliance.
+
 
