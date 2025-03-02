@@ -191,4 +191,5 @@ Primary Use Cases: Deploying microservices, APIs, and web applications.
 - Bare Metal Solution → For specialized workloads (e.g., Oracle).
 - Anthos → For hybrid/multi-cloud application management.
 
-                                                                                ### Ravi K Malhotra
+
+  ### Ravi K Malhotra
