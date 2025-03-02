@@ -5,9 +5,9 @@
   
 Google offers several database services through its Google Cloud Platform (GCP) catering to different use cases like transactional databases, analytical workloads, and in-memory caching. Here's an overview of all such offerings:
 
-## 1. Relational Database (SQL)
+## 1. Relational Database (SQL):
 These are all Relational Databases offered in the GCP
-### Cloud SQL ### This is fully managed service
+### Cloud SQL: It;s a fully managed service offering
 ### - Cloud Spanner
 This is 
 ### - AlloyDB for PostgreSQL:
