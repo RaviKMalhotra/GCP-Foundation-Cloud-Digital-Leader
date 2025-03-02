@@ -45,18 +45,18 @@
 ✅ Built-in security & compliance.
 
 ## 2. GCP Compute Engine
-"When it comes to raw compute power and flexibility, Google Compute Engine stands as the backbone of Google Cloud’s infrastructure services. Launched in 2012, it provides highly customizable virtual machines (VMs) that can run various workloads, from web applications to high-performance computing. Compute Engine offers full control over VM configurations, allowing businesses to choose the right balance of CPU, memory, and disk storage to match their needs. With built-in security, live migration, and automatic scaling, it ensures that workloads remain performant, reliable, and cost-efficient."
-
-
+- "When it comes to raw compute power and flexibility, Google Compute Engine stands as the backbone of Google Cloud’s infrastructure services.
+- Launched in 2012, it provides highly customizable virtual machines (VMs) that can run various workloads, from web applications to high-performance computing.
+- Compute Engine offers full control over VM configurations, allowing businesses to choose the right balance of CPU, memory, and disk storage to match their needs.
+- With built-in security, live migration, and automatic scaling, it ensures that workloads remain performant, reliable, and cost-efficient."
 - Compute Engine is an Infrastructure as a Service (IaaS) offering that provides scalable virtual machines (VMs) on Google's infrastructure.
-- Compute Engine was launched in year 2012
 - It supports both Windows and Linux operating systems.
-- you can create compute engine using the GCP console, and CLI. 
+- you can create compute engine using the GCP console, and the CLI mode.
 - It offers various machine types to suit different workloads.
 - As this being an IaaS offerings, users or consumers have full control over VM configurations, including CPU, memory and storage options.
-#### Primary use cases of Compute Engine: Web hosting, databases, big data processing, and enterprise applications.
+- Primary use cases of Compute Engine: Web hosting, databases, big data processing, and enterprise applications.
  
-### These are the Key Features of Compute Engine:
+### These are the Key Features of GCP Compute Engine:
 ✅ Fully customizable VMs (CPU, RAM, disk, and GPU).
 
 ✅ Preemptible and Spot VMs (cost-saving for non-critical workloads).
@@ -70,7 +70,10 @@
 
 ## 3. Google Kubernetes Engine (GKE) (Managed Kubernetes)
 
-"Managing containers at scale can be complex, but Google Kubernetes Engine (GKE) simplifies this process by providing a fully managed Kubernetes environment. Since its launch in 2015, GKE has enabled organizations to deploy, manage, and scale containerized applications seamlessly. Built on Google’s expertise with Kubernetes—the open-source container orchestration platform that originated at Google—GKE provides auto-scaling, security, and multi-cluster support. Whether running workloads on Google Cloud or in hybrid/multi-cloud environments with Anthos, GKE offers a powerful and flexible container management solution."
+- "Managing containers at scale can be complex, but Google Kubernetes Engine (GKE) simplifies this process by providing a fully managed Kubernetes environment.
+- Since its launch in 2015, GKE has enabled organizations to **deploy, manage, and scale containerized applications seamlessly.**
+- Built on Google’s expertise with Kubernetes—the open-source container **orchestration platform** that originated at Google—GKE provides auto-scaling, security, and multi-cluster support.
+- **Whether running workloads on Google Cloud or in hybrid/multi-cloud environments with Anthos, GKE offers a powerful and flexible container management solution."**
 
 
 - GKE is a managed Kubernetes service that simplifies deploying, managing, and scaling containerized applications using Google's infrastructure. 
