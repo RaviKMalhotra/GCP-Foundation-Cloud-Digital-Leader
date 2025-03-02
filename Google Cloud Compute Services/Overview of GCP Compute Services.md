@@ -4,8 +4,6 @@
 | 🚀 Linkedin Profile | https://www.linkedin.com/in/ravikmalhotra/  | 
 | 🐱 Github profile   | https://github.com/RaviKMalhotra            | 
 | 📜Topic             | Overview of GCP Compute Services (🖥️)      |
-|-------------------------------------------------------------------|
-
 
 # Overview of Google Cloud Compute Services
 💡 🚀 ♾️ 🛡️  ⬣  🟣   🔵  🟢  🟡  🔴   🔴   🔺  
