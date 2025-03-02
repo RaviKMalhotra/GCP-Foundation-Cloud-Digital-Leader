@@ -17,6 +17,13 @@ These are the compute services available in the GCP cloud:
    -   
 ## 1. App Engine
 
+### These are the Key Features of an App Engine:
+✅ Fully managed runtime environments (Python, Java, Go, Node.js, PHP, Ruby, etc.).
+✅ Automatic scaling & load balancing.
+✅ Integrated monitoring with Cloud Logging & Trace.
+✅ Traffic Splitting (A/B testing for different versions).
+✅ Built-in security & compliance.
+
 ## 2. Compute Engine
 
 - Compute Engine is an Infrastructure as a Service (IaaS) offering that provides scalable virtual machines (VMs) on Google's infrastructure.
