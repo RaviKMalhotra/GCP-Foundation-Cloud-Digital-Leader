@@ -32,11 +32,16 @@
 - Whether you are building a simple web app or a complex enterprise application, App Engine provides a seamless, fully managed environment to deploy applications effortlessly."
 - Primary Use Cases: Web apps, APIs, and backend services.
 
-### These are the Key Features of an App Engine:
+### These are the Key Features of an GCP App Engine:
+
 ✅ Fully managed runtime environments (Python, Java, Go, Node.js, PHP, Ruby, etc.).
+
 ✅ Automatic scaling & load balancing.
+
 ✅ Integrated monitoring with Cloud Logging & Trace.
+
 ✅ Traffic Splitting (A/B testing for different versions).
+
 ✅ Built-in security & compliance.
 
 ## 2. GCP Compute Engine
