@@ -9,11 +9,11 @@ These are the compute services available in the GCP cloud:
 - Compute instance, simply means a virtual machine in Microsoft Azure Cloud and EC2 instance in AWS cloud.
 - GCP offers a wide range of compute services. Here is a list
     - GCP Compute Engine
-  2. GCP App Engine
-  3. GCP Kubernetes Engine
-  4. GCP Cloud Run
-  5. GCP Cloud Run Functions
-  6. GCP Bare Metal
+    - GCP App Engine
+    - GCP Kubernetes Engine
+    - GCP Cloud Run
+    - GCP Cloud Run Functions
+    - GCP Bare Metal
      
 ## 1. App Engine
 
