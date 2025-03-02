@@ -4,6 +4,7 @@
 
 ---
 Topic: Overview of GCP Computing Services 🖥️
+Author: Ravi K Malhotra | 🌐 www.ravikmalhotra.com | Linkedin Profile - 
 ---
 
 
