@@ -9,9 +9,9 @@
 
 # Overview of Google Cloud Compute Services
 💡 🚀 ♾️ 🛡️  ⬣  🟣   🔵  🟢  🟡  🔴   🔴   🔺  
-These are the compute services available in the GCP cloud:
 - Compute services are the most critical and highly used components in any cloud platform.
 - Compute instances are also referred as workloads, as you can host any website or any custom application on top of a compute instances.
+- Compute services ia an IaaS form of cloud computing. 
 - Compute instance, simply means a virtual machine in Microsoft Azure Cloud and EC2 instance in AWS cloud.
 - GCP offers a wide range of compute services. Here is a list
     - GCP App Engine
@@ -23,10 +23,8 @@ These are the compute services available in the GCP cloud:
     - Anthos (Hybrid and Multi-Cloud Management)
     - 
 ## 1. GCP App Engine
-Let's learn some of the basic characteristics of a Google App Engine:
--
 - Google App Engine is one of the earliest cloud computing services from Google.
-- launched in 2008 as a pioneering Platform as a Service (PaaS).
+- launched in 2008 as a pioneering **Platform as a Service (PaaS)**.
 - It allows developers to build, deploy, and scale applications without worrying about managing the entire infrastructure.
 - With automatic scaling, built-in load balancing, and support for multiple programming languages, App Engine enables businesses to focus solely on writing code while Google takes care of hosting and operations.
 - Whether you are building a simple web app or a complex enterprise application, App Engine provides a seamless, fully managed environment to deploy applications effortlessly."
