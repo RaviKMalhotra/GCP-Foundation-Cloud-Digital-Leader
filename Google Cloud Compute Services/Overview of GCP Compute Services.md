@@ -74,53 +74,62 @@
 - Since its launch in 2015, GKE has enabled organizations to **deploy, manage, and scale containerized applications seamlessly.**
 - Built on Google’s expertise with Kubernetes—the open-source container **orchestration platform** that originated at Google—GKE provides auto-scaling, security, and multi-cluster support.
 - **Whether running workloads on Google Cloud or in hybrid/multi-cloud environments with Anthos, GKE offers a powerful and flexible container management solution."**
-
-
-- GKE is a managed Kubernetes service that simplifies deploying, managing, and scaling containerized applications using Google's infrastructure. 
+- - GKE is a managed Kubernetes service that simplifies deploying, managing, and scaling containerized applications using Google's infrastructure. 
 - It offers automated operations, integrated security, and enterprise-grade support.
-- Kubernetes Engine was launched and introduced by Google in year 2015. 
+- Primary use cases of Google Kubernetes Engine: Microservices, hybrid/multi-cloud applictions, and container orchestration.
 
-#### Primary use cases of Google Kubernetes Engine: Microservices, hybrid/multi-cloud applictions, and container orchestration.
+### Key Features of Google Kubernetes Engine (GKE):
 
-### Key Features of Google Kubernetes Engine:
 ✅ Auto-scaling (automatically adjusts compute resources).
-✅ GKE Autopilot (fully managed mode where Google handles cluster operations).
-✅ Multi-cluster & Multi-region support.
-✅ Built-in security features (IAM, encryption, and vulnerability scanning).
-✅ Hybrid and Multi-cloud Support (via Anthos).
 
+✅ GKE Autopilot (fully managed mode where Google handles cluster operations).
+
+✅ Multi-cluster & Multi-region support.
+
+✅ Built-in security features (IAM, encryption, and vulnerability scanning).
+
+✅ Hybrid and Multi-cloud Support (via Anthos).
 
 ## 4. Cloud Functions (FaaS - Even Drien Serverless)
 
-"Cloud Functions revolutionizes application development by providing a serverless, event-driven computing model. Introduced in 2017, this Function as a Service (FaaS) offering lets developers execute lightweight functions in response to triggers from various Google Cloud services, such as Cloud Storage, Pub/Sub, and Firestore. Since it automatically scales and charges only for execution time, it eliminates the need for provisioning or managing servers, making it an ideal solution for real-time data processing, automation, and microservices-based architectures."
+- FaaS stands for Functions-as-a-service.
+- "Cloud Functions revolutionizes **application development** by providing a **serverless**, **event-driven computing model**.
+- Introduced in 2017, this Function as a Service (FaaS) offering **lets developers execut**e **lightweight functions in response to triggers from various Google Cloud services**, such as Cloud Storage, Pub/Sub, and Firestore.
+- Since it automatically scales and charges only for execution time, it eliminates the need for provisioning or managing servers, making it an ideal solution for real-time data processing, automation, and microservices-based architectures."
+- A Function as a Service (FaaS) runs event-driven code without managing servers.
+- Primary Use Cases: Real-time data processing, IoT, API automation, and event-driven workloads.
+- 
+### Key Features of Google Functions (FaaS - Event Drive serverless)
 
-Introduction:
-
-Launch Year: 2017
-What it is: A Function as a Service (FaaS) that runs event-driven code without managing servers.
-Primary Use Cases: Real-time data processing, IoT, API automation, and event-driven workloads.
-Key Features:
 ✅ Fully serverless (only pay for execution time).
+
 ✅ Triggers from GCP services (Cloud Storage, Pub/Sub, Firestore, etc.).
+
 ✅ Autoscaling from 0 to N requests.
+
 ✅ Built-in security & monitoring.
+
 ✅ Supports multiple runtimes (Node.js, Python, Go, Java, .NET, Ruby, PHP).
 
 
 ## 5. Cloud Run (Serverless Containers)
-
-"Bridging the gap between serverless computing and containerization, Cloud Run provides a fully managed platform for running stateless, containerized applications. Launched in 2019, it enables businesses to deploy any application packaged as a container without worrying about infrastructure management. Cloud Run automatically scales based on demand and even scales down to zero when idle, ensuring cost efficiency. Its support for multiple programming languages, seamless integration with Google Cloud services, and built-in security features make it an attractive choice for modern application development."
-
-Introduction:
-
-Launch Year: 2019
-What it is: A serverless compute platform for running stateless containerized applications.
+- "Bridging the gap between serverless computing and containerization, **Cloud Run** provides a fully managed platform for running stateless, containerized applications.
+- Launched in 2019, **it enables businesses to deploy any application packaged as a container without worrying about infrastructure management.**
+- **Cloud Run automatically scales based on demand and even scales down to zero when idle, ensuring cost efficiency.**
+- Its support for multiple programming languages, seamless integration with Google Cloud services, and built-in security features make it an attractive choice for modern application development."
+**- Google Cloud Run is a serverless compute platform for running stateless containerized applications.**
 Primary Use Cases: Deploying microservices, APIs, and web applications.
-Key Features:
+
+## Key Features of Google Cloud Run 
+
 ✅ Deploy any containerized app (supports Docker & OCI-compliant containers).
+
 ✅ Scales to zero when idle (cost savings).
+
 ✅ Fully managed or Anthos-managed (for hybrid/multi-cloud).
+
 ✅ Supports HTTP-based workloads & WebSockets.
+
 ✅ Integrated with GCP IAM & Cloud Logging.
 
 ## 6. Bare Metal Solution (Dedicated Hardware for Specialized Workloads)
