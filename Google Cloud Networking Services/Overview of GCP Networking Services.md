@@ -11,7 +11,7 @@
 - Private Google Access -
   Virtual Private Cloud (VPC): Create logically isolated networks for your resources.
 
-1. Cloud Load Balancing: Distribute traffic across multiple instances to ensure high availability.
+- 1. Cloud Load Balancing: Distribute traffic across multiple instances to ensure high availability.
 2. Cloud CDN (Content Delivery Network): Deliver content to users with low latency.
 3. Cloud DNS: Scalable, reliable, and managed domain name system service.
 4. Cloud Interconnect: Connect your on-premises network to GCP with high bandwidth.
